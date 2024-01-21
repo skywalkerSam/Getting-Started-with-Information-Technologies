@@ -1,1 +1,3 @@
-# Resources for the CompTIA A+ (220-1101) Certification.
+# [Introduction To Information Technologies](https://github.com/skywalkerSam/Introduction-To-Information-Technologies)
+
+Getting Started with Information Technologies
