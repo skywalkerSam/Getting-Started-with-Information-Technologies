@@ -1,4 +1,4 @@
-# [Getting Started with Information Technologies!](https://github.com/skywalkerSam/Introduction-To-Information-Technologies)
+# [Getting Started with Information Technologies](https://github.com/skywalkerSam/Introduction-To-Information-Technologies)
 
 *How things actually work behind the scenes?
 
