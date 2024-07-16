@@ -1,13 +1,13 @@
 # [Getting Started with Information Technologies!](https://github.com/skywalkerSam/Introduction-To-Information-Technologies)
 
-*How things work behind the scenes...?
+*How things actually work behind the scenes?
 
-![*Reality!](./Resources/memes/theBatman_.jpg)
+<img src="./Resources/memes/theBatman.jpg" alt='The Batman' width=450>
 
-Shut up n' learn!
+Let's begin...
 
-![If not now, when?](./Resources/memes/ifNotNow,When_.jpg)
+<img src="./Resources/memes/letsBegin.jpg" alt="Let's begin" width=600>
 
-## Until next time...
+## Until next time.)
 
 ## ;)
